@@ -1,7 +1,5 @@
 # New York Tourist Spots
 
-[demonstration](https://youtu.be/lmuPrMOSxTk)
-
 ## Database creation
 
 1. Enter a mysql session on your device and connect to the database you would like to use
